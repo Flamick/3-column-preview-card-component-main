@@ -100,7 +100,7 @@ img {
 	}
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1000px) {
 	.container {
 		margin: 10rem auto 2rem auto;
 		max-width: 1200px;
